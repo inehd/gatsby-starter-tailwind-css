@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
         </header>
         {children}
         <footer className="py-2 text-center text-gray-600 text-xs">
-          &copy; Melanie Nolan 2020
+          &copy; Dheni Cuy 2021
         </footer>
       </div>
     </>
